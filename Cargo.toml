@@ -4,6 +4,11 @@ version = "0.1.0"
 authors = ["Justin Wong <jusw85@hotmail.com>"]
 links = "lz4"
 build = "build.rs"
+description = "sys crate for mozlz4"
+license = "MIT"
+documentation = "https://docs.rs/mozlz4-sys"
+homepage = "https://github.com/beatbutton/mozlz4-sys"
+repository = "https://github.com/beatbutton/mozlz4-sys"
 
 [lib]
 path = "lib.rs"
